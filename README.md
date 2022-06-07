@@ -7,7 +7,7 @@ Here is the deployment and verification stuff for the first batch of contracts o
 
 ## Burger Deployment:
   - tokenURI: baselink.com/{}.json
-  - grill2 address: <grill2 addr>
+  - grill2 address: < grill2 addr >
 
 ## Metabull Deployment:
   - tokenURI: baselink.com/ (post reveal: baselink.io/<>.json
