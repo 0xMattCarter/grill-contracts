@@ -11,16 +11,16 @@ Here is the deployment and verification stuff for the first batch of contracts o
 
 ## Metabull Deployment:
   - tokenURI: baselink.com/ (post reveal: baselink.io/<>.json
-  - burger address: <burger addr>
-  - grill2 address: <grill2 addr>
+  - burger address: < burger addr >
+  - grill2 address: < grill2 addr >
   - * Need to replace erc721a.sol and ierc721a.sol in .deps
   
   
 ## Phybull Deployment:
-  - vault address: <receiver of erc20>
+  - vault address: < receiver of erc20 >
   - erc20 address: 0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48
-  - burger address: <burger addr>
-  - grill2 address: <grill2 addr>
+  - burger address: < burger addr >
+  - grill2 address: < grill2 addr >
  
   
 # Test deploys:
