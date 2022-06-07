@@ -10,7 +10,9 @@ Deployment/verification stuff for the first objective batch of contracts
 - grill2 address: <>
 
 # Metabull Deployment
--
+- tokenURI: baselink.com/{}.json
+- burger address: <>
+- grill2 address: <>
 
 # Phybull Deployment
 -
