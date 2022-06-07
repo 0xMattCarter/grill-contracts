@@ -10,7 +10,7 @@ Here is the deployment and verification stuff for the first batch of contracts o
   - grill2 address: <grill2 addr>
 
 ## Metabull Deployment:
-  - tokenURI: baselink.com/{}.json
+  - tokenURI: baselink.com/ (post reveal: baselink.io/<>.json
   - burger address: <burger addr>
   - grill2 address: <grill2 addr>
   - * Need to replace erc721a.sol and ierc721a.sol in .deps
