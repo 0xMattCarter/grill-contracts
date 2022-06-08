@@ -21,19 +21,19 @@ Deploy each contract in order using the following parameters
 
 ## Grill Deployment:
   - grill1 address: 0xE11AF478aF241FAb926f4c111d50139Ae003F7fd
-  - gas cost at 40 gwei: 
+  - gas cost at 40 gwei: 0.07543624
 
 ## Burger Deployment:
   - tokenURI: baselink.com/{}.json
   - grill2 address: < grill2 addr >
-  - gas cost at 40 gwei:
+  - gas cost at 40 gwei: 0.0799362
 
 ## Metabull Deployment:
   - tokenURI: baselink.com/ (post reveal will be: baselink.io/<>.json)
   - burger address: < burger addr >
   - grill2 address: < grill2 addr >
   - * Need to replace erc721a.sol and ierc721a.sol in .deps
-  - gas cost at 40 gwei: 
+  - gas cost at 40 gwei: 0.08037496
   
   
 ## Phybull Deployment:
@@ -41,7 +41,16 @@ Deploy each contract in order using the following parameters
   - erc20 address: 0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48 (USDC)
   - burger address: < burger addr >
   - grill2 address: < grill2 addr >
-  - gas cost at 40 gwei: 
+  - gas cost at 40 gwei: 0.04133816
+
+# Gas Usage
+Assuming 40 gwei:
+  - grill2: 0.07543624
+  - burger: 0.0799362
+  - metabull: 0.08037496
+  - phybull: 0.04133816
+  - total: 0.27708556
+
  
   
 # Test deploys:
