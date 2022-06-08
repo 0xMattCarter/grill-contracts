@@ -54,7 +54,7 @@ Assuming 40 gwei:
  
   
 # Test deploys:
-  - Grill2: https://goerli.etherscan.io/address/0x5d84968d70f3bc98840ca37178c261fc0368e7fd
-  - Burger: https://goerli.etherscan.io/address/0x23726589ce342c2f3064a7611df2771c16e63fe5
-  - Metabull: https://goerli.etherscan.io/address/0x89c21ce749f5b9dfcf74d79276ee6ce8e507d4b7
-  - Phybull: https://goerli.etherscan.io/address/0x6a6ee18e688d2df3f7b843185290445a582269b0
+  - Grill2: https://goerli.etherscan.io/address/0x708790Ca15B5D7aa4797225F05d301A1586E7867
+  - Burger: https://goerli.etherscan.io/address/0x324DE66f43535e1469d050F67ceBE99b82C99a25
+  - Metabull: https://goerli.etherscan.io/address/0x1eBFb398991e5c49f3DE9424672b0f2De64af6Cc
+  - Phybull: https://goerli.etherscan.io/address/0x0430a09Eb345A9D925897c210654640866Ba67C7
