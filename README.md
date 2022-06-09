@@ -57,6 +57,9 @@ Assuming 40 gwei:
 - Step 2: setProxyForAccount(), function 10 @ https://etherscan.io/address/0x90dd49e039b6c1343cdd59c7032c51a9f769823f#writeContract
   - account: 0xE11AF478aF241FAb926f4c111d50139Ae003F7fd
   - operator: 0x90DD49e039B6C1343cDd59c7032c51a9f769823F
+
+# Test Server:
+  - https://62a273bf0bb66421ddaa861d--vocal-vacherin-6b589f.netlify.app/index.html
   
 # Live deploys:
   - Grill2: https://etherscan.io/address/0x90DD49e039B6C1343cDd59c7032c51a9f769823F
